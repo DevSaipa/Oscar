@@ -1,9 +1,4 @@
-قہٰناة آلہٰسہٰورسہٰ 🤖👇🏻Source channel
-#{ تہٰعہٰلہٰم آلہٰبہٰرمہٰجةة } (https://telegram.me/Ch_Dev)
-×××××××××××××××××××××××××××××××××××××××××
-مہٰطہٰور آلہٰبہٰوتہٰ 🕵 🤖 👇🏻Dev Bot
-#{ مہٰيہٰمہٰو مہٰشہٰآكہٰل آلہٰعہٰرآقہٰيے } (https://telegram.me/ii02ii)
-
+طريقة تنصيب سورس اوسكار اقوى سورس بالتلي
 *******************************************************************
 ```sh
 
@@ -25,11 +20,11 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ➖🔷➖🔺➖🔶🔻➖🔷➖
 ورآهہٰآ خہٰلہٰيے 👇🏻 And vinegary
 ➖🔷➖🔺➖🔶🔻➖🔷➖
-git clone https://github.com/ii02ii/Dev_Saqt.git
+git clone https://github.com/DevSaipa/Oscar.git
 ➖🔷➖🔺➖🔶🔻➖🔷➖
 ورآهہٰآ خہٰلہٰيے 👇🏻 And vinegary
 ➖🔷➖🔺➖🔶🔻➖🔷➖
-cd Dev_Saqt
+cd Oscar
 ➖🔷➖🔺➖🔶🔻➖🔷➖
 ورآهہٰآ خہٰلہٰيے 👇🏻 And vinegary
 ➖🔷➖🔺➖🔶🔻➖🔷➖
@@ -70,7 +65,7 @@ redis-server
 
 ```sh
 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/ii02ii/Dev_Saqt.git && cd Dev_Saqt && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/DevSaipa/Oscar.git && cd Oscar && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 * * *
@@ -92,12 +87,4 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
     0,
     YourID
   }
-```
-😘 مـبروَك أصبَحتـَ مـطورَ بوـتكَ لتوأصل معي 
-
-#Dev : [@ii02ii](https://telegram.me/ii02ii)
-#Dev_BOT :  [@ii02ii_bot](https://telegram.me/ii02ii_bot)
-#Dev_Channel :  [@Ch_Dev](https://telegram.me/Ch_Dev)
-
-عندكَ فكره تطوير السورس او البوت تفظل هنأَ☝🏿️
-You have an idea to develop Alsoors or bot prefer ☝🏿️✋🏿
+``
