@@ -210,56 +210,31 @@ end
 function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
-  about_text = "آهہۧلآ وسہۧهہۧلآ بہۧكہۧ عہۧزيہۧزي الہۧبہۧطہۧور\n  سہۧورس ديہۧف سہۧآقط  ( Dev_Saqt )\n\n➖🔹➖🔸➖🔹➖\nDeveloper or الہۧبہۧطہۧور :-  🙇🏻🍷 :\n🔸 - @ii02ii \n Channel sors 🏈  :\n🔹 - @Ch_Dev \n➖🔹➖🔸➖🔹\n\n🛰 رآبہۧط آلہۧسہۧورس :\n https://github.com/ii02ii/Dev_Saqt.git : link in githup",
     enabled_plugins = {
-    "Addbot",
-    "Admin",
-    "All",
-    "Anti_spam",
-    "Ar-broadcast",
-    "Ar_badword",
-    "Ar_banhammer",
-    "Ch_Dev",
-    "Delete",
-    "Get",
-    "Help",
-    "Image",
-    "Ingroup",
-    "Inpm",
-    "Inrealm",
-    "Leave",
-    "Leave_ban",
-    "Lock_arabic",
-    "Lock_english",
-    "Lock_fosh",
-    "Lock_fwd",
-    "Lock_link",
-    "Lock_tag",
-    "Lock_username",
-    "Msg_checks",
-    "Newgroup",
-    "Owners",
-    "Plugins",
-    "Reply",
-    "Set",
-    "Stats",
-    "Sticker23",
-    "Supergroup",
-    "Welcome",
+"admin",
+"deletall",
+"help",
+"id",
+"info",
+"link",
+"plugins",
+"replay",
+"super",
+"welcoome",
+"kick",			
     },
-    sudo_users = { 162961370,68726245,tonumber(our_id)},--Sudo users
+    sudo_users = { 103810497,0},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Dev_Saqt)(
-آهہٰلآ وسہٰهلآ بہٰك صہٰديہٰقہٰيے آلےمےطےوريےن
-@ii02ii
-@ss02ss
-@w_Dev_d
-Channel DEV Saqt TEAM
-@Ch_Dev
-آلآصہٰدآر آلہٰثہٰآنہٰي :
-https://github.com/ii02ii/Dev_Saqt
-]],
+    about_text = [[oscar v1
+An advanced administration bot based on TG-CLI written in Lua
 
+https://github.com/DevSaipa/Oscar
+Admins
+@G0vip
+Channel :@hlusat
+
+
+]],
     help_text_realm = [[
 Realm Commands:
 
